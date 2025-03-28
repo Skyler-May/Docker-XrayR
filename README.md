@@ -12,8 +12,8 @@
 ### 务必在 `root` 目录下执行一键安装
 
 ```bash
-wget https://github.com/Skyler-May/Docker-XrayR/blob/main/install_XrayR.sh \
-     https://github.com/Skyler-May/Docker-XrayR/blob/main/update_XrayR.sh \
+wget https://raw.githubusercontent.com/Skyler-May/Docker-XrayR/refs/heads/main/install_XrayR.sh \
+     https://raw.githubusercontent.com/Skyler-May/Docker-XrayR/refs/heads/main/update_XrayR.sh \
   && chmod +x install_XrayR.sh update_XrayR.sh \
   && ./install_XrayR.sh
 ```
